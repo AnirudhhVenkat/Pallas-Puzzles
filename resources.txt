@@ -1,0 +1,3 @@
+resources:
+https://huggingface.co/blog/ariG23498/pallas-for-beginners
+https://maxtext.readthedocs.io/en/latest/guides/optimization/pallas_kernels_performance.html#
