@@ -18,7 +18,7 @@ Interactive puzzles for learning Pallas from first principles. Work through [Pal
 
 - [x] Puzzle 1: Constant Add
 - [x] Puzzle 2: Constant Add Block
-- [ ] Puzzle 3: Outer Vector Add
+- [x] Puzzle 3: Outer Vector Add
 - [ ] Puzzle 4: Outer Vector Add Block
 - [ ] Puzzle 5: Fused Outer Multiplication
 - [ ] Puzzle 6: Fused Outer Multiplication - Backwards
