@@ -4,7 +4,7 @@
 - [x] Puzzle 2: Constant Add Block
 - [x] Puzzle 3: Outer Vector Add
 - [x] Puzzle 4: Outer Vector Add Block
-- [ ] Puzzle 5: Fused Outer Multiplication
+- [x] Puzzle 5: Fused Outer Multiplication
 - [ ] Puzzle 6: Fused Outer Multiplication - Backwards
 - [ ] Puzzle 7: Long Sum
 - [ ] Puzzle 8: Long Softmax
